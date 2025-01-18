@@ -1,0 +1,11 @@
+SiiNunit
+{
+live_stream_def : _nameless.220.ad08.1d00 {
+ stream_data: 4
+ stream_data[0]: "http://stream.ffn.de/radiobollerwagen/mp3-192/stream.mp3|Bollerwagen|Party|DE|0|1"
+ stream_data[1]: "http://listen.181fm.com/181-90scountry_128k.mp3|181.fm 90s Country|Country|EN|0|1"
+ stream_data[2]: "http://listen.181fm.com/181-kickincountry_128k.mp3|181.fm Kickin Country|Country|EN|0|1"
+ stream_data[3]: "http://radio.trucksim.fm:8000/stream|TruckSimFM|Sim radio|EN|320|1"
+ }
+
+}
